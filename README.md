@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
