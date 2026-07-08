@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0292-nim-game) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0724-find-pivot-index) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Brainteaser
 |  |
 | ------- |
