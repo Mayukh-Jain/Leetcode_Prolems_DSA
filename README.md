@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0724-find-pivot-index](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0724-find-pivot-index) |
