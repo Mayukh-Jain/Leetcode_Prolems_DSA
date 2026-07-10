@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0135-candy) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0724-find-pivot-index](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0724-find-pivot-index) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Prefix Sum
@@ -82,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -105,9 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
