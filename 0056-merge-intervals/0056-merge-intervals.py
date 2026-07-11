@@ -4,19 +4,13 @@ class Solution(object):
         :type intervals: List[List[int]]
         :rtype: List[List[int]]
         """
-        if not intervals:
-            return []
-            
         intervals.sort(key=lambda x: x[0])
+        res = []
+
+        for start, end in intervals:
+            if not res or res[-1][1] < start:
+                res.append([start, end])
+            else: 
+                res[-1][1] = max(res[-1][1], end)
         
-        merged = [intervals[0]]
-        
-        for current in intervals[1:]:
-            last_merged = merged[-1]
-            
-            if current[0] <= last_merged[1]:
-                last_merged[1] = max(last_merged[1], current[1])
-            else:
-                merged.append(current)
-                
-        return merged
+        return res
