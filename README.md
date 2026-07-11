@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0198-house-robber) |
 ## Memoization
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
