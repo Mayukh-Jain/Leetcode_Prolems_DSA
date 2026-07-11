@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0135-candy) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Stack
