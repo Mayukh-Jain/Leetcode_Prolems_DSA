@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
