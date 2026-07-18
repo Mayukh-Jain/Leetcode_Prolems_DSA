@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0292-nim-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Prefix Sum
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
