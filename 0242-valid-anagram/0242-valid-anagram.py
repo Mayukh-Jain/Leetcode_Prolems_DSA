@@ -6,8 +6,8 @@ class Solution:
         for c in s:
             count[c]=count.get(c,0)+1
         for c in t:
-            count[c]=count.get(c,0)-1
-        for val in count.values():
-            if val!=0:
+            if c in count and count[c]>0:
+                count[c]-=1
+            else:
                 return False
         return True
