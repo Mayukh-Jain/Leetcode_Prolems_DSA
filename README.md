@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0292-nim-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1768-merge-strings-alternately) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0242-valid-anagram) |
