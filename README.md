@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
