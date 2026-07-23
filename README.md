@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0202-happy-number) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0217-contains-duplicate) |
