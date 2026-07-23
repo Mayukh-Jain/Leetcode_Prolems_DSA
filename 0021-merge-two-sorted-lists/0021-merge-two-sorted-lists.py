@@ -20,9 +20,5 @@ class Solution:
                 curr.next=l2
                 curr=curr.next
                 l2=l2.next
-        p=l1 or l2
-        while p:
-            curr.next=p
-            curr=curr.next
-            p=p.next
+        curr.next= l1 or l2
         return dummy.next
