@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0292-nim-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0217-contains-duplicate) |
