@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0334-increasing-triplet-subsequence) |
