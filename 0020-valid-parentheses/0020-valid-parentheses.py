@@ -1,12 +1,11 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack=[]
-        m={")": "(", "}": "{", "]": "["}
         for b in s:
-            if b in m:
-                if not stack or m[b]!=stack[-1]:
-                    return False
-                stack.pop()
-            else:
+            if b=="(" or b=="[" or b=="{":
                 stack.append(b)
+            elif not stack or (b == ")" and stack[-1] != "(") or (b == "}" and stack[-1] != "{") or (b == "]" and stack[-1] != "["):
+                return False
+            else:
+                stack.pop()
         return not stack
