@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0383-ransom-note) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1768-merge-strings-alternately](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1768-merge-strings-alternately) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0191-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Stack
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
