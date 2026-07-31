@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1768-merge-strings-alternately](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Union-Find
 |  |
 | ------- |
