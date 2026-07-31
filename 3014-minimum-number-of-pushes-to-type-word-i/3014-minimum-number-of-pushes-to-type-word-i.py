@@ -1,11 +1,9 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
-        n=len(set(word))
-        res=0
-        m=1
-        while n>0:
-            take=min(n,8)
-            res+=take*m
-            n-=8
-            m+=1
-        return res
+        n = len(word)
+        total_pushes = 0
+        
+        for idx in range(n):
+            total_pushes += (idx // 8) + 1
+            
+        return total_pushes
