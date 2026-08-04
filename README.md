@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
