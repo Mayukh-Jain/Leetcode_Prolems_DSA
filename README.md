@@ -369,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
