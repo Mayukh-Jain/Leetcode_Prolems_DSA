@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0877-stone-game) |
+| [0957-prison-cells-after-n-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0905-sort-array-by-parity) |
+| [0957-prison-cells-after-n-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0191-number-of-1-bits) |
+| [0957-prison-cells-after-n-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Stack
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0957-prison-cells-after-n-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -378,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
