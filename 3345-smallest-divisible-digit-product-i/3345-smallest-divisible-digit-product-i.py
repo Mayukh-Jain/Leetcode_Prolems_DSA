@@ -3,8 +3,10 @@ class Solution:
         
         def prod(n):
             p=1
-            for num in str(n):
-                p*=int(num)
+            x=n
+            while x>0:
+                p*=x%10
+                x//=10
             return p
         
         while True:
