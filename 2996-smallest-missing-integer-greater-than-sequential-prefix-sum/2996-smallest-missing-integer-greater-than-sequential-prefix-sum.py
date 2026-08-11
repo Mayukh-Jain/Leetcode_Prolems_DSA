@@ -6,10 +6,6 @@ class Solution:
                 curr+=nums[i]
             else:
                 break
-        s=set(nums)
-        while True:
-            if curr in s:
-                curr+=1
-            else:
-                break
+        while curr in nums:
+            curr+=1
         return curr
