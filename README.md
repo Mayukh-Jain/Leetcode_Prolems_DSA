@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0224-basic-calculator) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0169-majority-element) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0739-daily-temperatures) |
