@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0957-prison-cells-after-n-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Stack
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Randomized
 |  |
