@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0224-basic-calculator) |
 | [0292-nim-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0344-reverse-string) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0901-online-stock-span) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1441-build-an-array-with-stack-operations) |
