@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0198-house-robber) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0224-basic-calculator) |
