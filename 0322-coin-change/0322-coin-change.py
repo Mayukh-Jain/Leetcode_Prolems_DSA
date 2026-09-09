@@ -1,10 +1,15 @@
+from functools import lru_cache
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        dp=[amount+1]*(amount+1)
-        dp[0]=0
-        for i in range(1,amount+1):
-            for c in coins:
-                if i-c>=0:
-                    dp[i]=min(dp[i],dp[i-c]+1)
+        @lru_cache(None)
+        def f(i,t):
+            if t==0: return 0
+            if i<0: return float('inf')
 
-        return dp[amount] if dp[amount]!=amount+1 else -1
+            nt=f(i-1,t)
+            take=float('inf')
+            if coins[i]<=t:
+                take=1+f(i,t-coins[i])
+            return min(nt,take)
+        res=f(len(coins)-1,amount)
+        return res if res!=float('inf') else -1
