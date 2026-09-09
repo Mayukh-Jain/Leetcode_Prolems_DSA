@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0877-stone-game) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -525,9 +528,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
