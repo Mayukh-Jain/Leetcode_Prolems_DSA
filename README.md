@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -545,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0322-coin-change) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
