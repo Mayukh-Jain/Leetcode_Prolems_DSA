@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0957-prison-cells-after-n-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
