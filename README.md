@@ -577,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
