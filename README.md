@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1251-average-selling-price) |
 | [1341-movie-rating](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1484-group-sold-products-by-the-date) |
