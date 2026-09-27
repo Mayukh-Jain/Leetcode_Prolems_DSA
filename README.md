@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1768-merge-strings-alternately) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Binary Search
 |  |
@@ -635,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
