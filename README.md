@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1140-stone-game-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1096-brace-expansion-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1096-brace-expansion-ii) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
