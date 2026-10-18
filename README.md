@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2029-stone-game-ix) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting Sort
 |  |
 | ------- |
@@ -526,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -546,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Randomized
 |  |
@@ -647,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Database
 |  |
@@ -714,4 +723,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
