@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting Sort
 |  |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
