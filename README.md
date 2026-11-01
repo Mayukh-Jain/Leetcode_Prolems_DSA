@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0224-basic-calculator) |
 | [0292-nim-game](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0836-rectangle-overlap) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
