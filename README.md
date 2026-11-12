@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
