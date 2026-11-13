@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0901-online-stock-span) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
 |  |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Minimax
 |  |
 | ------- |
@@ -704,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
