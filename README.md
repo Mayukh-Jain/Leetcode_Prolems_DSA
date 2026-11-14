@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayukh-Jain/Leetcode_Prolems_DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
